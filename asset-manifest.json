@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/goal.git/static/css/main.fd39b924.chunk.css",
+    "main.js": "/goal.git/static/js/main.b31294b7.chunk.js",
+    "main.js.map": "/goal.git/static/js/main.b31294b7.chunk.js.map",
+    "runtime-main.js": "/goal.git/static/js/runtime-main.a5d45c98.js",
+    "runtime-main.js.map": "/goal.git/static/js/runtime-main.a5d45c98.js.map",
+    "static/css/2.cdcf4dbc.chunk.css": "/goal.git/static/css/2.cdcf4dbc.chunk.css",
+    "static/js/2.1b45fe6e.chunk.js": "/goal.git/static/js/2.1b45fe6e.chunk.js",
+    "static/js/2.1b45fe6e.chunk.js.map": "/goal.git/static/js/2.1b45fe6e.chunk.js.map",
+    "static/js/3.113d1087.chunk.js": "/goal.git/static/js/3.113d1087.chunk.js",
+    "static/js/3.113d1087.chunk.js.map": "/goal.git/static/js/3.113d1087.chunk.js.map",
+    "index.html": "/goal.git/index.html",
+    "static/css/2.cdcf4dbc.chunk.css.map": "/goal.git/static/css/2.cdcf4dbc.chunk.css.map",
+    "static/css/main.fd39b924.chunk.css.map": "/goal.git/static/css/main.fd39b924.chunk.css.map",
+    "static/js/2.1b45fe6e.chunk.js.LICENSE.txt": "/goal.git/static/js/2.1b45fe6e.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/goal.git/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo.6ce24c58.svg": "/goal.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5d45c98.js",
+    "static/css/2.cdcf4dbc.chunk.css",
+    "static/js/2.1b45fe6e.chunk.js",
+    "static/css/main.fd39b924.chunk.css",
+    "static/js/main.b31294b7.chunk.js"
+  ]
+}
